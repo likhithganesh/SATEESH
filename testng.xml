@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Lone Department">
+  <test thread-count="5" name="personl lone">
+    <classes>
+      <class name="my_frist.day1"/>
+      <class name="my_frist.day2"/>
+	  <class name="my_frist.day4"/>
+       
+    </classes>
+  </test> 
+  <test name="carloen">
+	  
+	  <classes>
+		  <class name="my_frist.day3"/>>
+		  
+	  </classes>
+  </test>
+</suite> 
