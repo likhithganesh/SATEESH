@@ -1,0 +1,26 @@
+
+t
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ú©ê‰úÿÿÿÿ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ö¼€ø
+M
+java:S1854
+"7Remove this useless assignment to local variable "dec".(ô¢å©
+P
+java:S1854"5Remove this useless assignment to local variable "a".(ú©ê‰úÿÿÿÿ
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æžÿÿÿÿÿ
+K
+java:S2440")Remove this instantiation of "ArrayList".(ú©ê‰úÿÿÿÿ8ÉºÔÕ1
+A
+java:S1481"&Remove this unused "a" local variable.(ú©ê‰úÿÿÿÿ
+>
+java:S1481
+"(Remove this unused "dec" local variable.(ô¢å©
+F
+java:S1481"+Remove this unused "answer" local variable.(öý—éÿÿÿÿÿ
+@	java:S106"+Replace this use of System.out by a logger.(—Í¹®
+@	java:S106"+Replace this use of System.out by a logger.(«‹Îõ
+@	java:S106"+Replace this use of System.out by a logger.(«¾àÕ
+?	java:S106"+Replace this use of System.out by a logger.(ŸÜÂ{
+\
+java:S1128":Remove this unused import 'java.util.jar.Attributes.Name'.(Ý»óÌûÿÿÿÿ8‹ŸºÔÕ1

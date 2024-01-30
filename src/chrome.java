@@ -19,7 +19,7 @@ public class chrome {
 		drive.findElement(By.xpath("//input[@placeholder='Email']")).sendKeys("ravank");
 		drive.findElement(By.cssSelector("input[placeholder='Phone Number']")).sendKeys("91824181046");
 		drive.findElement(By.xpath("(//button[normalize-space()='Reset Login'])[1]")).click();
-	drive.findElement(by.qurry)
+
 //		drive.findElement(By.id("visitUSOne")).click();
 	}
 }

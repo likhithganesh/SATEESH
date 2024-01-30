@@ -15,7 +15,7 @@
 	 drive.manage().window().fullscreen();
 //	 drive.navigate().to("https://digitalseva.csc.gov.in/");
 	 drive.navigate().back();
-	 drive.navigate().forward()
+	 drive.navigate().forward();
 	}}
  
 //	 Thread.slpee(3000);

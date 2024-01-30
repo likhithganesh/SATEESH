@@ -34,7 +34,7 @@ public class day3 {
 	
 	
 	@AfterSuite
-	public void carparkinglong() {
+	public void carparkingloang() {
 		System.out.println("carpartking  55555555 progblue");}
 	@Test
 	public void carparkinglong() {

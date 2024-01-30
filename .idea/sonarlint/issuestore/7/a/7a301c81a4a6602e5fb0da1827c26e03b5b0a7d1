@@ -1,0 +1,13 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñë¼®ûÿÿÿÿ8¶¿ÒÔÕ1
+=
+java:S2326"T is not used in the class.(¨¨“ˆşÿÿÿÿ8ú¿ÒÔÕ1
+Y
+java:S1854"7Remove this useless assignment to local variable "add".(Ñë¼®ûÿÿÿÿ8ü¿ÒÔÕ1
+T
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8ÿ¿ÒÔÕ1
+K
+java:S2440")Remove this instantiation of "ArrayList".(Ñë¼®ûÿÿÿÿ8€ÀÒÔÕ1
+J
+java:S1481"(Remove this unused "add" local variable.(Ñë¼®ûÿÿÿÿ8‚ÀÒÔÕ1
